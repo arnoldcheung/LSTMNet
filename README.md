@@ -6,6 +6,7 @@ A model utlising LSTM for translation quality estimation.
 * Feed forward neural network regressor taking the concatenated output from the LSTM as input
 
 ## Prerequisites
-  pip install spacy
-  pip istall nltk
-  pip install torch
+    pip install spacy
+    pip istall nltk
+    pip install torch
+
