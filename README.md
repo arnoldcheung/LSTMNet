@@ -1,5 +1,5 @@
 # LSTMNet
-A model utlising LSTM for translation quality estimation.
+A model utlising LSTM for translation quality estimation. Built using PyTorch and uses NLTK and spaCy preprocessing and word embeddings.
 
 ## Archituecture
 * Two separate LSTM networks processing English and German texts individually
