@@ -20,6 +20,9 @@ The notebook contain seven sections, rung from the beginning for full test:
     * Downloads training, validation, and test data.
     * Downloads word embeddings and stopwords
     
+* Laser (testing)
+    * Demonstrates the use of laser embeddings
+    
 * Preparing Data
     * Defines dataloader for training, containing text preprocessing and embedding extraction
 
@@ -28,8 +31,11 @@ The notebook contain seven sections, rung from the beginning for full test:
     
 * Training and Evaluation
     * The main training and evaluation loop
+
+* Grid search
+    * Implements parameter search over batch size, learning rate and weight decay
     
-* Prepare For Submission
+* Final Evaluation
     * Loads the model, and write predictions to an output file
     
 * Results
